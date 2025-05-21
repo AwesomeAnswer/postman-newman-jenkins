@@ -18,7 +18,7 @@
 							"    pm.response.to.have.status(200);\r",
 							"});\r",
 							"pm.test(\"Body matches string\", function () {\r",
-							"    pm.expect(pm.response.text()).to.include(\"string_you_want_to_search\");\r",
+							"    pm.expect(pm.response.text()).to.include(\"qui est esse\");\r",
 							"});"
 						],
 						"type": "text/javascript",
